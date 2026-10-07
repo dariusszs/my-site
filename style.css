@@ -4,8 +4,8 @@ body {
   display: grid;
   place-items: center;
   font-family: system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
-  background: #141312;
-  color: #042B1D;
+  background: #012a0d;
+  color: #002f61;
 }
 
 main {
