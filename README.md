@@ -2,7 +2,7 @@
 
 
 
-![Profile Preview](tig.jpeg)
+![Profile Preview] (screenshot.png)
 
 ## 👤 About Me
 
@@ -28,3 +28,7 @@ A web tool that gives you a rough estimate of your carbon footprint based on you
 ├── style.css     # Styling sheet
 └── tig.jpeg      # Profile image
 
+
+
+
+[def]: screenshot.png
