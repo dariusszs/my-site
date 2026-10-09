@@ -2,8 +2,7 @@
 
 
 
-![Profile Preview] (screenshot.png)
-
+![Profile Preview](screenshot.png)
 ## 👤 About Me
 
 Hey, I'm Darius 👋  
