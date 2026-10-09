@@ -1,13 +1,13 @@
-# Darius | Pixl Maker Profile
+# Darius | 
 
-A simple and clean portfolio/profile page created for Hack Club's [Pixl](https://pixl.hackclub.com).
+
 
 ![Profile Preview](tig.jpeg)
 
 ## 👤 About Me
 
 Hey, I'm Darius 👋  
-I recently finished a project on Coral and am now building more projects on Pixl to learn new things and build cool stuff along the way.
+I recently finished a project on Coral and am now building more projects on Pixl to learn new things and build cool stuff along the way. I enjoy learning new things, especially languages. And theoretically, coding is a language aswell :). My favorite animal is the tiger or the Californian sea lion.
 
 ## 🚀 Featured Project: Emissions Calculator
 
