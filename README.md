@@ -6,4 +6,4 @@ This website is designed, to tell you a bit about me. On it, you can find the li
  * **Links** :  <a href="https://dariusszs.github.io/emissions_calculator/" target="_blank">This</a> links leads you to my emission calculator on Github.
 
  This was built using a mix of HTML, JavaScript and CSS
-!(images/screenshot.png)
+![This is a screenshot of my project](images/screenshot.png)
