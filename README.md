@@ -20,8 +20,8 @@ This website is designed, to tell you a bit about me. On it, you can find the li
 2. Click on index.html. It then should open in your web browser.
 3. If you change it in any way,you can see the alterings after pressing F5 or CMD+R on  a Mac. This will refresh the page.
 ## Troubleshooting
-* ** Screenshot not showing** Make sure that "screeenshot.png" is in your folder.
-* ** If your changes do not show** You have to save the file first, and then refresh the page.
+* **Screenshot not showing** Make sure that "screeenshot.png" is in your folder.
+* **If your changes do not show** You have to save the file first, and then refresh the page.
 
 ## License
 MIT License
