@@ -19,6 +19,34 @@ This website is designed, to tell you a bit about me. On it, you can find the li
 1. Open the folder wher ethe project is in
 2. Click on index.html. It then should open in your web browser.
 3. If you change it in any way,you can see the alterings after pressing F5 or CMD+R on  a Mac. This will refresh the page.
+## Troubleshooting
+* ** Screenshot not showing** Make sure that "screeenshot.png" is in your folder.
+* ** If your changes do not show** You have to save the file first, and then refresh the page.
+
+## License
+MIT License
+
+Copyright (c) 2026 dariusszs
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+
 
 
 
